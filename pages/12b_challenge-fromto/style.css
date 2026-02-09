@@ -28,3 +28,7 @@
   pointer-events: none;
   will-change: transform, opacity;
 }
+
+.demo {
+  position: relative;
+}
